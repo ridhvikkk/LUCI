@@ -23,7 +23,7 @@
 module.exports = {
   TOKEN: "",
   ownerID: ["118906540703483906"]
-  botInvite: "",
+  botInvite: "https://discord.com/oauth2/authorize?client_id=1249802814004133928&permissions=689882654736&integration_type=0&scope=bot",
   supportServer: "https://discord.gg/MHvJuURXaR",
   mongodbURL: "ERROR 404",
   status: '𝕷𝖚𝖈𝖎𝖋𝖊𝖗',

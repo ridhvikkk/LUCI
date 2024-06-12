@@ -9,7 +9,7 @@
 
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
-║  ## Created by GlaceYT!                                                ║
+║  ## Created by 𝕷𝖚𝖈𝖎𝖋𝖊𝖗!                                                 ║
 ║  ## Feel free to utilize any portion of the code                       ║
 ║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
 ║  ## YouTube : https://www.youtube.com/@GlaceYt                         ║
@@ -21,12 +21,12 @@
 
 
 module.exports = {
-  TOKEN: "",
-  ownerID: ["1004206704994566164", ""],
-  botInvite: "",
-  supportServer: "",
-  mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
-  status: 'GlaceYT',
+  TOKEN: "MTI0OTgwMjgxNDAwNDEzMzkyOA.GvKB0v.9yL190lkB6BAO1Hd5ygkypV-ULXC6dACzjh6GM",
+  ownerID: ["1189065407034839060"]
+  botInvite: "https://discord.com/oauth2/authorize?client_id=1249802814004133928&permissions=689882654736&integration_type=0&scope=bot",
+  supportServer: "https://discord.gg/MHvJuURXaR",
+  mongodbURL: "ERROR 404",
+  status: '𝕷𝖚𝖈𝖎𝖋𝖊𝖗',
   commandsDir: './commands',
   language: "en",
   embedColor: "00fbff",
@@ -40,9 +40,9 @@ module.exports = {
 
   voteManager: {
     status: false,
-    api_key: "",
+    api_key: "NONE",
     vote_commands: ["back", "channel", "clear", "dj", "filter", "loop", "nowplaying", "pause", "playnormal", "playlist", "queue", "resume", "save", "play", "skip", "stop", "time", "volume"],
-    vote_url: "",
+    vote_url: "ERROR 404",
   },
 
   shardManager: {
@@ -84,10 +84,10 @@ module.exports = {
 
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
-║  ## Created by GlaceYT!                                                ║
+║  ## Created by 𝕷𝖚𝖈𝖎𝖋𝖊𝖗!                                                 ║
 ║  ## Feel free to utilize any portion of the code                       ║
-║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
-║  ## YouTube : https://www.youtube.com/@GlaceYt                         ║
+║  ## DISCORD :                     ║
+║  ## YouTube :                     ║
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
 
